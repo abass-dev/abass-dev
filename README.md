@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
- 🔭 I’m currently working on a Real time ChatApp
- 🌱 I’m currently learning React and Symfony
- 👯 I’m looking to collaborate on PHP and JavaScript project
+- 🔭 I’m currently working on a Real time ChatApp
+- 🌱 I’m currently learning React and Symfony
+- 👯 I’m looking to collaborate on PHP and JavaScript project
  <!-- 🤔 I’m looking for help with -->
  <!-- 💬 Ask me about ... -->
- 📫 How to reach me: abass@todaysdev.com
+- 📫 How to reach me: abass@todaysdev.com
  <!-- 😄 Pronouns: ... -->
  <!-- ⚡ Fun fact: ... -->
 
