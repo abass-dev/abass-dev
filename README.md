@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about PHP development
 - 📫 How to reach me: abass@todaysdev.com
 - 😄 Pronouns: I like to talk too much.
- <!-- 🤔 I’m looking for help with -->
- ⚡ Fun fact: Canada is south of Detroit (just look at a map).😊
-
+- ⚡ Fun fact: Canada is south of Detroit (just look at a map).
+<!-- 🤔 I’m looking for help with -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abass-bencheik)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abass-bencheik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
