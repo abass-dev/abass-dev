@@ -1,7 +1,7 @@
-# Hi there 👋
+## Hi there 👋
 
-## I'm Abass Ben Cheik OR Just (Ben Cheik) 😊,
-## I'm a Full-stack Web developer
+### I'm Abass Ben Cheik OR Just (Ben Cheik)
+### I'm a Full-stack Web developer
 ![](https://komarev.com/ghpvc/?username=abass-bencheik&color=dc143c)
 
 <!--
