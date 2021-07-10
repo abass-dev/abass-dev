@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React and Symfony
 - 👯 I’m looking to collaborate on PHP and JavaScript project
 - 💬 Ask me about PHP development
-- 📫 How to reach me: abass@todaysdev.com | abassbenpro@gmail.com
+- 📫 How to reach me: abass@todaysdev.com
 - 😄 Pronouns: I like to talk too much.
 - ⚡ Fun fact: Canada is south of Detroit (just look at a map).
 <!-- 🤔 I’m looking for help with -->
