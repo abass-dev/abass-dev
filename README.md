@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a Real time ChatApp
+- 🔭 I’m currently working on my PHP framework
 - 🌱 I’m currently learning React and Symfony
 - 👯 I’m looking to collaborate on PHP and JavaScript project
 - 💬 Ask me about PHP development
