@@ -9,10 +9,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my PHP framework
+- 🔭 I’m currently working on [Nigatedev](https://github.com/nigatedev/nigatedev) PHP framework as lead developer
 - 🌱 I’m currently learning React and Symfony
-- 👯 I’m looking to collaborate on PHP and JavaScript project
-- 💬 Ask me about PHP development
+- 👯 I’m looking to collaborate on both PHP and JavaScript project
+- 💬 Ask me about web development
 - 📫 How to reach me: abass@todaysdev.com
 - 😄 Pronouns: I like to talk too much.
 - ⚡ Fun fact: Canada is south of Detroit (just look at a map).
