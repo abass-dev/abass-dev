@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm Abass Ben Cheik OR Just call me Ben
+## I'm Abass Ben Cheik or just call me Ben
 ### I'm a Full-stack Web developer
 ![](https://komarev.com/ghpvc/?username=abass-bencheik&color=dc143c)
 
