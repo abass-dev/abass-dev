@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 #### I'm Abass Ben Cheik
-I'm a Full stack Web developer
+I'm a full stack Web developer
 - 🔭 I’m currently working on [Nigatedev](https://github.com/nigatedev/nigatedev) PHP framework as lead developer
 - 🌱 I’m currently learning React and Symfony
-- 👯 I’m looking to collaborate on both PHP and JavaScript project
+- 👯 I’m looking to collaborate PHP and JavaScript project
 - 💬 Ask me about web development
-- 📫 How to reach me: abass@todaysdev.com
+- 📫 How to reach me: abass@todaydevs.com
 - 😄 Pronouns: I'm a talkative.
 - ⚡ Fun fact: Canada is south of Detroit (just look at a map).
 <!-- 🤔 I’m looking for help with -->
