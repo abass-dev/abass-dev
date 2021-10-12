@@ -1,20 +1,15 @@
 ## Hi there 👋
 
-## I'm Abass Ben Cheik or just call me Ben
-### I'm a Full-stack Web developer
+## I'm Abass Ben Cheik
+### I'm a Full stack Web developer
 ![](https://komarev.com/ghpvc/?username=abass-bencheik&color=dc143c)
 
-<!--
-**abass-bencheik/abass-bencheik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on [Nigatedev](https://github.com/nigatedev/nigatedev) PHP framework as lead developer
 - 🌱 I’m currently learning React and Symfony
 - 👯 I’m looking to collaborate on both PHP and JavaScript project
 - 💬 Ask me about web development
 - 📫 How to reach me: abass@todaysdev.com
-- 😄 Pronouns: I like to talk too much.
+- 😄 Pronouns: I'm a talkative.
 - ⚡ Fun fact: Canada is south of Detroit (just look at a map).
 <!-- 🤔 I’m looking for help with -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abass-bencheik)](https://github.com/anuraghazra/github-readme-stats)
