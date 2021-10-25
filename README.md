@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 #### I'm Abass Ben Cheik
-I'm a full stack Web developer
+I'm a Full stack Web developer | Open-source lover | 6+ years of experience | Creator of the [Nigatedev framework](https://github.com/nigatedev/nigatedev)
+
 - 🔭 I’m currently working on [Nigatedev](https://github.com/nigatedev/nigatedev) PHP framework as lead developer
 - 🌱 I’m currently learning React and Symfony
 - 👯 I’m looking to collaborate PHP and JavaScript project
