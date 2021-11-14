@@ -4,8 +4,8 @@
 ![Abass Ben Cheik](https://github.com/abass-bencheik/abass-bencheik/blob/main/abass-bencheik.jpg)
 
 I'm a Full stack Web developer | Open-source lover | 6+ years of experience | Creator of [Nigatedev framework](https://github.com/nigatedev/nigatedev)
-- 🔭 I’m currently working on Todaydevs website and [Nigatedev](https://github.com/nigatedev/nigatedev) PHP framework as lead developer
-- 🌱 I’m currently learning React and Symfony
+- 🔭 I’m currently working on [todaydevs](https://todaydevs.com) and [Nigatedev](https://github.com/nigatedev/nigatedev) framework as lead developer
+- 🌱 I’m currently learning Python and React Native
 - 👯 I’m looking to collaborate PHP and JavaScript project
 - 💬 Ask me about web development
 - 📫 How to reach me: abass@todaydevs.com
