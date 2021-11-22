@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### I'm Abass Ben Cheik
-![Abass Ben Cheik](https://github.com/abass-dev/abass-dev/blob/main/abass-dev.jpg)
+![Abass Ben Cheik](https://github.com/abass-dev/abass-dev/blob/master/abass-dev.jpg)
 
 I'm a Full stack Web developer | Open-source lover | 6+ years of experience | Creator of [Nigatedev framework](https://github.com/nigatedev/nigatedev).
 - 🔭 I’m currently working on [todaydevs](https://todaydevs.com) and [Nigatedev](https://github.com/nigatedev/nigatedev) framework as lead developer.
