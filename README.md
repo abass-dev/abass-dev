@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I'm Abass Ben Cheik
+#### I'm Abass Dev
 ![Abass Ben Cheik](https://github.com/abass-dev/abass-dev/blob/main/abass-bencheik.jpg)
 
 I'm a Full stack Web developer | Open-source lover | 6+ years of experience | Creator of [Nigatedev framework](https://github.com/nigatedev/nigatedev).
