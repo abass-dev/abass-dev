@@ -5,7 +5,7 @@
 
 I'm a Full stack Web developer | Open-source lover | 6+ years of experience | Creator of [Nigatedev framework](https://github.com/nigatedev/nigatedev).
 - 🔭 I’m currently working on [todaydevs](https://todaydevs.com) and [Nigatedev](https://github.com/nigatedev/nigatedev) framework as lead developer.
-- 🌱 I’m currently doing a review on Python and React Native.
+- 🌱 I’m currently doing a review on Python, React and React Native.
 - 👯 I’m looking to collaborate PHP and JavaScript project
 - 💬 Ask me about web and Mobile App development.
 - 📫 How to reach me: abass@todaydevs.com
