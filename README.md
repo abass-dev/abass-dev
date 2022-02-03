@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there 👋, It's Abass Dev!
 
-#### I'm Abass Dev
-I'm a Full stack Web developer | Open-source lover | 6+ years of experience | Creator of [Nigatedev framework](https://github.com/nigatedev/nigatedev).
+I'm Web, Mobile and Software developer passionate about the internet and programming for over 6 years. | Open-source lover | 6+ years of experience | Creator of [Nigatedev framework](https://github.com/nigatedev/nigatedev) and author of [todaydevs website](https://todaydevs.com)
+
 - 🔭 I’m currently working on [todaydevs](https://todaydevs.com) and [Nigatedev](https://github.com/nigatedev/nigatedev) framework as lead developer.
 - 🌱 I’m currently doing a review on Python, React and React Native.
 - 👯 I’m looking to collaborate PHP and JavaScript project
-- 💬 Ask me about web and Mobile App development.
+- 💬 Ask me about Web and Mobile App development.
 - 📫 How to reach me: abass@todaydevs.com
 - 😄 Pronouns: I'm a talkative.
 - ⚡ Fun fact: Canada is south of Detroit (just look at a map).
