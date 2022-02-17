@@ -1,6 +1,6 @@
 ## Hi there 👋, It's Abass Dev!
 
-I'm Web, Mobile and Software developer passionate about the internet and programming for over 6 years. | Open-source lover | 6+ years of experience | Creator of [Nigatedev framework](https://github.com/nigatedev/nigatedev) and author of [todaydevs website](https://todaydevs.com)
+I'm Web, Mobile and Software developer passionate about the internet and programming for over 6 years. | Open-source lover | 6+ years of experience | Creator of [Nigatedev framework](https://github.com/nigatedev/nigatedev) and [todaydevs](https://todaydevs.com)
 
 - 🔭 I’m currently working on [todaydevs](https://todaydevs.com) and [Nigatedev](https://github.com/nigatedev/nigatedev) framework as lead developer.
 - 🌱 I’m currently doing a review on Python, React and React Native.
