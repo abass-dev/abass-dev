@@ -10,7 +10,7 @@ I'm Web, Mobile and Software developer passionate about the internet and program
 - 😄 Pronouns: I'm a talkative.
 - ⚡ Fun fact: Canada is south of Detroit (just look at a map).
 <!-- 🤔 I’m looking for help with -->
-### Are you from Ghana?! Host with StormerHost.
+### Are you from Ghana?! Host with [StormerHost](https://stormerhost.com/clients/aff.php?aff=466)
 <a href="https://stormerhost.com/clients/aff.php?aff=466"><img src="https://stormerhost.com/ads/728X90.jpg" width="728" height="90" border="0"></a>
 
 ![](https://komarev.com/ghpvc/?username=abass-dev&color=dc143c)
