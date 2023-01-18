@@ -17,6 +17,9 @@ I'm Web, Mobile and Software developer passionate about the internet and program
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abass-dev)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abass-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![wakatime](https://wakatime.com/badge/user/072e7dc4-793a-4d70-86fe-15b01af3a38b.svg)](https://wakatime.com/@072e7dc4-793a-4d70-86fe-15b01af3a38b)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@abassdev/046df1ed-8b0e-4ee8-ac99-372526da70e1.png" /></a>
+
 <h3 align="left">Languages and Tools: </h3>
 <p align="center"> 
     <a className='col-2' href="https://www.php.net" target="_blank"> <img src="https://icongr.am/devicon/php-original.svg?size=125&color=141414" alt="php" width="40" height="40"/> </a>
