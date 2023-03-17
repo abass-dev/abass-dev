@@ -2,7 +2,7 @@
 
 Web, Mobile and Software developer passionate about the internet and programming for over 6 years. | Open-source lover | 6+ years of experience | Creator of [NigaPHP framework](https://github.com/nigaphp)
 
-Check out my [portfolio for more](https://abassdev.com)
+Check out my portfolio for more [https://abassdev.com](https://abassdev.com)
 
 - 🔭 I’m currently working on [NigaPHP](https://github.com/nigaphp) framework as lead developer.
 - 🌱 I’m currently doing review on Python, React and React Native.
