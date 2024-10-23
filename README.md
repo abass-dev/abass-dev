@@ -1,6 +1,6 @@
 ## Hi there 👋, It's Abass Dev!
 
-I am a passionate web and mobile app developer with over 6 years of experience in programming and the internet. In my free time, I enjoy writing articles on my [blog](https://blog.abassdev.com) and contributing to the open-source community. I am also the creator of the [NigaPHP framework](https://github.com/nigaphp)
+I am a passionate web and mobile app developer with over 6 years of experience in programming and the internet. In my free time, I enjoy writing articles on my [blog](https://abassdev.com/blog) and contributing to the open-source community. I am also the creator of the [NigaPHP framework](https://github.com/nigaphp)
 
 Check out my portfolio for more https://abassdev.com
 
