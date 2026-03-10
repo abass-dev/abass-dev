@@ -2,7 +2,6 @@
 
 I am a passionate web and mobile app developer with over 6 years of experience in programming and the internet. In my free time, I enjoy writing articles on my [blog](https://abassdev.com/blog) and contributing to the open-source community. I am also the creator of the [NigaPHP framework](https://github.com/nigaphp)
 
-Check out my portfolio for more https://abassdev.com
 
 # 💫 About Me:
 🔭 I’m currently working on NigaPHP framework as lead developer.<br>🌱 I’m currently doing review on Python, React and React Native.<br>👯 I’m looking to collaborate PHP and JavaScript project<br>💬 Ask me about Web and Mobile App development.<br>📫 How to reach me: abass@abassdev.com<br>😄 Pronouns: I'm a talkative.<br>⚡ Fun fact: Canada is south of Detroit (just look at a map).
