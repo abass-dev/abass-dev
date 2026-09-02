@@ -6,7 +6,7 @@ I create digital experiences that combine **design, technology, video, and creat
 
 I have a strong background in web development and currently focus mainly on **Next.js and modern web technologies**, while continuing to explore new tools and creative workflows.
 
-🌐 **Portfolio:** [wanecrea.com](https://abass.wanecrea.com)  
+🌐 **Portfolio:** [abass.wanecrea.com](https://abass.wanecrea.com)  
 🎨 **Wane Crea:** Digital creative agency focused on design, web, video & digital communication.
 
 ## 💫 About Me
